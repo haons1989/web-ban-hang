@@ -1,0 +1,9 @@
+D:\Devexpress\Demo\Demo2\Demo2\bin\Demo2.dll
+D:\Devexpress\Demo\Demo2\Demo2\bin\Demo2.pdb
+D:\Devexpress\Demo\Demo2\Demo2\bin\Demo2.xml
+D:\Devexpress\Demo\Demo2\Demo2\obj\Debug\Demo2.Resources.resources
+D:\Devexpress\Demo\Demo2\Demo2\obj\Debug\Demo2.vbproj.GenerateResource.Cache
+D:\Devexpress\Demo\Demo2\Demo2\obj\Debug\Demo2.dll
+D:\Devexpress\Demo\Demo2\Demo2\obj\Debug\Demo2.xml
+D:\Devexpress\Demo\Demo2\Demo2\obj\Debug\Demo2.pdb
+D:\Devexpress\Demo\Demo2\Demo2\obj\Debug\Demo2.dll.licenses
